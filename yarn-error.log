@@ -1,0 +1,32 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js start
+
+PATH: 
+  C:\Users\Helen\AppData\Local\Programs\Python\Python35-32\Lib\site-packages\PyQt5;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Lenovo\FusionEngine;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Lenovo\Motion Control\;C:\Program Files (x86)\PharosSystems\Core;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Calibre2\;C:\Program Files\Cloud Foundry;C:\ProgramData\chocolatey\bin;C:\Program Files\cURL\bin;C:\Program Files\Git\cmd;C:\Program Files\MongoDB\Server\3.4\bin\;C:\Program Files\MiKTeX 2.9\miktex\bin\x64\;C:\Program Files\erl9.0\bin;C:\Program Files (x86)\Elixir\bin;C:\WINDOWS\system32\config\systemprofile\.mix\escripts;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\nodejs\;C:\Ruby24-x64\bin;C:\Users\Helen\AppData\Local\Programs\Python\Python35-32\Scripts\;C:\Users\Helen\AppData\Local\Programs\Python\Python35-32\;C:\Program Files (x86)\Intel\iCLS Client\;C:\Users\Helen\AppData\Local\Microsoft\WindowsApps;C:\Program Files\MongoDB\Server\3.4\bin;C:\Users\Helen\AppData\Local\Google\Cloud SDK\google-cloud-sdk\bin;C:\Users\Helen\AppData\Local\Pandoc\;C:\Program Files (x86)\MySQL\MySQL Server 5.7\bin;C:\Program Files (x86)\Elixir\bin;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files (x86)\Heroku\bin;C:\Program Files (x86)\PostgreSQL\10\bin;C:\Users\Helen\AppData\Local\atom\bin;C:\Users\Helen\AppData\Local\GitHubDesktop\bin;C:\Users\Helen\AppData\Local\Yarn\bin;C:\Users\Helen\AppData\Roaming\npm
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  9.11.1
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Couldn't find a package.json file in "C:\\Users\\Helen\\Documents\\School\\18S\\CS52\\cs52-maps-workshop\\workshop-web-maps"
+      at new MessageError (C:\Program Files (x86)\Yarn\lib\cli.js:186:110)
+      at C:\Program Files (x86)\Yarn\lib\cli.js:40048:15
+      at Generator.next (<anonymous>)
+      at step (C:\Program Files (x86)\Yarn\lib\cli.js:98:30)
+      at C:\Program Files (x86)\Yarn\lib\cli.js:109:13
+      at <anonymous>
